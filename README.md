@@ -23,6 +23,13 @@ To get a local copy follow these steps.
 - Clone the repo
 - run in your local browser
 
+Thank you!
+
+Huda Hussaini, Shams Ahson
+
+Hudah@umich.edu
+Sahson@umich.edu
+
 
 
 
