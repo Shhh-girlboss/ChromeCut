@@ -1,0 +1,75 @@
+#h1 {
+    color: white;
+    font-family: monospace;
+    display: inline-block;
+    padding-left: 40px;
+    margin-right: 40px;
+    margin-left: 20px;
+    padding: 12px;
+}
+
+#hh1 {
+    background-color: #7ab4ebea;
+    border-radius: 4em;
+    display: inline-block;
+
+}
+
+#icon {
+float: left;
+display: inline-block;
+width: 150px;
+height: 150px;
+left: 200px;
+top: 150px;
+}
+
+.normbutton {
+   display: block;
+}
+
+a{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(48, 48, 48);
+    font-size: 1.5em;
+    font-weight: bold;
+    text-decoration: none;
+    float: left;
+
+}
+nav{
+    float: left;
+}
+nav ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+}
+nav li {
+    display: inline-block;
+    margin-left: 100px;
+    padding-top: 25px;
+    position: relative;
+}
+nav a:hover{
+    color: rgb(255, 255, 255);
+
+
+}
+
+nav a:before{
+
+    content: "";
+    display: block;
+    height: 5px;
+    width: 0%;
+    background: rgb(255, 255, 255);
+    position: absolute;
+    top: 0;
+    transition: ease-in-out 250ms;
+}
+
+nav a:hover::before{
+    width: 100%;
+}
