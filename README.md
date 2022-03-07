@@ -9,7 +9,7 @@
 
 ## Purpose
 
-Chromcut has a mission to automate the process of installing linux based apps on Chromebooks for the user, maximizing a Chromboks potential along the way.
+Chromecut has a mission to automate the process of installing linux based apps on Chromebooks for the user, maximizing a Chrombook's potential along the way.
 
 ## Built With
 HTML
@@ -18,10 +18,11 @@ Javascript
 Docker
 
 ## Getting Started
-To get a local copy follow these steps.
+To get a local copy follow these steps:
+
 ### Installation
 - Clone the repo
-- run in your local browser
+- Run in your local browser
 
 Thank you!
 
